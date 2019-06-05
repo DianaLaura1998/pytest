@@ -6,7 +6,7 @@ def do_something(a,b,c):
     if a==2 and c>1:
         c=c+1
     else:
-        c=c-1
+        c=c-1dd
 
 if __name__=="__main__":
     a=int(sys.argv[1])
